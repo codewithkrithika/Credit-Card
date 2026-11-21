@@ -57,4 +57,10 @@ The models are evaluated using:
 This project demonstrates how machine learning techniques can be used to detect fraudulent credit card transactions. By comparing different algorithms, the project helps identify a suitable model for fraud detection.
 
 
-B.Sc. Computer Science Student
+
+
+
+
+
+
+
