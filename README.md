@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card 
 
 ## Project Overview
 Credit Card Fraud Detection is a Machine Learning project that identifies potentially fraudulent credit card transactions. It uses data analysis and machine learning algorithms to distinguish between legitimate and fraudulent transactions.
